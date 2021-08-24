@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/GoodByeDPITurkey-t%C3%BCrkiye-critical">
 </a>
 <a href="https://github.com/HuzunluArtemis/GoodByeDPITurkey/issues" alt="Hatalar">
-<img src="https://img.shields.io/github/issues/HuzunluArtemis/goodbyedpi">
+<img src="https://img.shields.io/github/issues/HuzunluArtemis/GoodByeDPITurkey">
 </a>
 <a href="https://github.com/HuzunluArtemis/GoodByeDPITurkey" alt="Görüntülenme Sayısı">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HuzunluArtemis.GoodByeDPITurkey">
